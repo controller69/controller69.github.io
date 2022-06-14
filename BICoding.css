@@ -3,31 +3,31 @@
     background-image: url(BIbase.png);
 }
 
-.ds4.purple.disconnected {
+.ds4.white.disconnected {
     background: url(BIdisconnected.png);
 }
 
-.ds4.purple .trigger {
+.ds4.white .trigger {
     background-image: url(BItrigger.png);
 }
 
-.ds4.purple .bumper {
+.ds4.white .bumper {
     background-image: url(BIbump.png);
 }
 
-.ds4.purple .back, .ds4 .start {
+.ds4.white .back, .ds4 .start {
     background-image: url(BIstart.png);
 }
 
-.ds4.purple .button {
+.ds4.white .button {
     background-image: url(BIface.png);
 }
 
-.ds4.purple .stick {
+.ds4.white .stick {
     background-image: url(BIsticks.png);
 }
 
-.ds4.purple .face {
+.ds4.white .face {
     background-image: url(BIdpad.png);
 }
 
